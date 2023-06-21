@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    align-items: center;
+    // background-color: cornflowerblue;
+    background-color: var(--header-bg);
+    height: var(--header-height);
+    // padding: 0 1rem;
+
+    ul{
+        background-color: var(--header-bg);
+    }
+  }
+  
+  header h1 {
+    margin: 0;
+    margin-left: 40px;
+    // background-color: rgb(39, 78, 151);
+  }
+
+.width-navbar{
+    width: 100%;
+}
